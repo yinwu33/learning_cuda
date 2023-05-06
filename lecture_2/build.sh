@@ -1,0 +1,1 @@
+nvcc matrixMultiple.cu -o MatrixMultiple -lcublas
